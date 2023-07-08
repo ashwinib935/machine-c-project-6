@@ -1,0 +1,30 @@
+.user-img{
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+}
+.rating-container{
+    display: flex;
+    justify-content: space-between;
+}
+.rating-details{
+    display: flex;
+    gap:0.5rem;
+   justify-content: start;
+   padding: 1rem 0.5rem;
+}
+.rating-details h3,p{
+    text-align: start;
+}
+.rating{
+    background-color: green;
+    color: yellow;
+    padding: 0.1rem 1rem;
+    border-radius: 5px;
+    text-align: start;
+}
+.rating-span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

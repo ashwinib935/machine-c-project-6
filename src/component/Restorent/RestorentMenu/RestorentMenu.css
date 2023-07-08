@@ -1,0 +1,8 @@
+.menu-container{
+    display: flex;
+    gap: 1rem;
+    justify-content: start;
+    text-align: start;
+    flex-wrap: wrap;
+
+}

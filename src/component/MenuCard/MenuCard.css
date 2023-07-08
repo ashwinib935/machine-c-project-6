@@ -1,0 +1,24 @@
+.restorent-menu-card{
+    height: 300px ;
+    width: 220px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+   align-items: flex-start;
+   border-radius: 5px;
+   cursor: pointer;
+
+}
+h3,p{
+    margin-block: 0;
+}
+.restorent-menu-card img{
+    width: 100%;
+    height: 70%;
+}
+.restorent-menu-details{
+    display: flex;
+    gap: 1rem;
+    position: relative;
+}

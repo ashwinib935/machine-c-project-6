@@ -1,0 +1,13 @@
+.btn-cusion-container{
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+}
+.btn-cusion-container button{
+    padding: 0.5rem;
+    background-color: rgb(237, 16, 127);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

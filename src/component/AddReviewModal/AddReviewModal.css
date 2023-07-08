@@ -1,0 +1,50 @@
+.addreview-modal{
+    width: 300px;
+    height: 400px;
+    border-radius: 5px;
+    background-color: rgb(237, 16, 127);
+    color: white;
+    position: absolute;
+    top: 5rem;
+    left: 5rem;
+}
+h1{
+    border-bottom: 1px solid white;
+}
+.addreview-details{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: start;
+    padding: 1rem;
+}
+.btn-close{
+    background-color: transparent;
+    color: white;
+    border-radius: 16px;
+    border: 2px solid white;
+    width: 30px;
+    height: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.input-data{
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.inputvalue{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.btn-submit{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
